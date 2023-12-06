@@ -1,0 +1,6 @@
+pandas~=2.1.1
+sqlalchemy~=2.0.21
+django~=4.1
+openai~=1.2.4
+mysql-connector-python~=8.1.0
+djangorestframework~=3.14.0
