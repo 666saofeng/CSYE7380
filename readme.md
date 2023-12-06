@@ -1,0 +1,1 @@
+This repo is about the assignements of CSYE 7380 (GENAI practice and theory)
